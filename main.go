@@ -13,37 +13,37 @@ import (
 	// webctrl "github.com/FloatTech/ZeroBot-Plugin/control/web" // web 后端控制
 
 	// 词库类
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_atri"      // ATRI词库
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_chat"      // 基础词库
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_qingyunke" // 青云客
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_atri"      // ATRI词库
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_chat"      // 基础词库
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_qingyunke" // 青云客
 
 	// 实用类
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_b14"         // base16384加解密
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_github"      // 搜索GitHub仓库
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_manager"     // 群管
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_nbnhhsh"     // 拼音首字母缩写释义工具
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_runcode"     // 在线运行代码
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_translation" // 翻译
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_b14"         // base16384加解密
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_github"      // 搜索GitHub仓库
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_manager"     // 群管
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_nbnhhsh"     // 拼音首字母缩写释义工具
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_runcode"     // 在线运行代码
+	 _ "github.com/FloatTech/ZeroBot-Plugin/plugin_translation" // 翻译
 
 	// 娱乐类
-	_ "github.com/FloatTech/ZeroBot-Plugin-Gif"              // 制图
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_ai_false"  // 服务器监控
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_choose"    // 选择困难症帮手
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_fortune"   // 运势
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_hs"        // 炉石
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_minecraft" // MCSManager
+	// _ "github.com/FloatTech/ZeroBot-Plugin-Gif"              // 制图
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_ai_false"  // 服务器监控
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_choose"    // 选择困难症帮手
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_fortune"   // 运势
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_hs"        // 炉石
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_minecraft" // MCSManager
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_music"     // 点歌
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_omikuji"   // 浅草寺求签
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_reborn"    // 投胎
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_shindan"   // 测定
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_reborn"    // 投胎
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_shindan"   // 测定
 
 	// b站相关
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_bilibili" // 查询b站用户信息
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_diana"    // 嘉心糖发病
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_bilibili" // 查询b站用户信息
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_diana"    // 嘉心糖发病
 
 	// 二次元图片
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_acgimage"     // 随机图片与AI点评
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_aiwife"       // 随机老婆
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_acgimage"     // 随机图片与AI点评
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin_aiwife"       // 随机老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_image_finder" // 关键字搜图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_lolicon"      // lolicon 随机图片
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin_saucenao"     // 以图搜图

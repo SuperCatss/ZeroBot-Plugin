@@ -1,8 +1,8 @@
 name: compile
 on:
-  push:
-    tags:
-      - 'v*'
+  release:
+    types: # This configuration does not affect the page_build event above
+      - created
 
 jobs:
   goreleaser:
